@@ -1,6 +1,6 @@
 # Logistic Regression in R
 
-Quality = read.csv("/Users/jaimegarcia/Documents/DESKTOP_101/code/R_code/SMU/LogisticReg-Files/Quality.csv")
+Quality = read.csv("Quality.csv")
 str(Quality)
 
 # Creating Training and Testing Sets
