@@ -1,6 +1,6 @@
 # Logistic Regression in R
 
-FirstFram = read.csv("/Users/jaimegarcia/Documents/DESKTOP_101/code/R_code/SMU/LogisticReg-Files/Framingham.csv")
+FirstFram = read.csv("Framingham.csv")
 str(FirstFram)
 summary(FirstFram)
 #Fram = read.csv("Framingham.csv")
